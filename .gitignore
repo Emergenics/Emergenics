@@ -1,0 +1,183 @@
+datasets/
+data/
+dataset/
+runs/
+logs/
+output/
+priors/
+pipeline_features/
+domain_features/
+logs/
+checkpoints/
+
+analysis_output/
+synthetic_simulation_results/
+emergenics-phasetransitions/
+network-automaton/
+
+*.json
+*.jsonl
+*.json.gz
+*.jsonl.gz
+*.jsonl.bz2
+*.json.bz2
+
+*.txt
+*.md
+
+HUMAN_9606_idmapping.dat.gz
+
+
+# Simulation Outputs / Data Files / Models
+*.csv
+*.pth
+*.pkl
+*.npy
+*.npz
+
+# Specific Data / Output Directories
+simulation_results/
+data/
+datasets/
+string_data/
+
+# Add other rules as needed (like venv/, __pycache__, etc.)
+
+# 🚫 GLOBAL NUKES
+*.log
+*.csv
+*.pkl
+*.gz
+*.zip
+*.tar
+*.tar.gz
+*.7z
+*.png
+*.jpg
+*.jpeg
+*.bmp
+*.tiff
+*.mp4
+*.avi
+*.mkv
+*.sqlite
+*.sqlite3
+*.db
+*.h5
+*.pt
+*.ckpt
+*.npz
+*.npy
+*.egg-info/
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
+.env
+.venv
+*.bak
+*.tmp
+*.swp
+*.swo
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+installed.txt
+*.egg-info/
+.installed.cfg
+*.whl
+MANIFEST
+
+# Environments
+.env/
+.venv/
+env/
+venv/
+ENV/
+Scripts/
+
+# PyInstaller
+build/
+dist/
+*.spec
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# mypy
+.mypy_cache/
+.dmypy.json
+dmypy.sqlite
+
+# poetry
+poetry.lock
+
+# pytest
+.pytest_cache/
+.coverage
+.coverage.*
+htmlcov/
+
+# Static files (e.g., in Django)
+static/
+
+# OS or Editor related
+.DS_Store
+.idea/
+*.swp
+*.swo
+.vscode/
+
+# Logs and databases
+*.log
+*.sqlite
+*.sqlite3
+
+# Temporary files
+*~
+\#*
+*.bak
+*.tmp
+*.rej
+
+# Sensitive data
+secrets.json
+*.pem
+*.key
+*.p12
+
+# Compiled Artifacts
+*.pyc
+*.pyd
+
+# Documentation build products
+docs/_build/
+
+# Distribution zip files
+*.zip
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Virtual environments (if you use virtualenvwrapper)
+.virtualenvs/
