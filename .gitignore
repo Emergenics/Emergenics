@@ -22,8 +22,8 @@ network-automaton/
 *.jsonl.bz2
 *.json.bz2
 
-*.txt
-*.md
+emergenics_phase1_results/
+network_automaton_results/
 
 HUMAN_9606_idmapping.dat.gz
 
