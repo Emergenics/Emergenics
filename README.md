@@ -9,12 +9,27 @@
 
 Emergenics is a multidisciplinary field blending insights from physics, computation, network theory, thermodynamics, complexity science, and artificial intelligence to uncover **universal mechanisms of emergent behavior**.
 
-### Core Questions:
+---
 
-- How does **computation arise from structure** alone?
-- What mechanisms govern **emergent intelligence**?
-- Are there **new physical laws** for decentralized computation?
-- How do **phase transitions** shape the boundary between randomness and order?
+## 🌌 Universal Emergence Hypothesis (UEH)
+
+We propose a **universal principle** governing the emergence of intelligence, structure, and computation across physical, biological, informational, and cosmological systems.
+
+This **Universal Emergence Hypothesis (UEH)** posits that whenever structured systems evolve through local rules over time, they inevitably pass through a **phase transition** at the "edge of chaos"—a region of criticality where **intelligent behavior spontaneously emerges**.
+
+The hypothesis builds upon discoveries in **Network Automata (NA)**, **Computational Fabric Systems (CFS)**, and **Finite-Size Scaling (FSS)**, and seeks to unify emergence across scales — from **protein folding** and **neural computation** to **artificial intelligence** and **cosmic evolution**.
+
+### UEH Statement of Principles
+
+1. **Emergence is universal**: Wherever structured substrates evolve through local interactions over time, a **critical point** will emerge — a phase transition — where complex, adaptive, and intelligent behaviors become possible.
+
+2. **The Edge of Chaos is an attractor**: Intelligence arises at or near this phase transition, not as an anomaly, but as an **inevitability** of structured evolution.
+
+3. **Quantifiable emergence**: These transitions exhibit measurable, universal characteristics — **critical exponents**, **finite-size effects**, and **scaling laws**.
+
+4. **Substrate-independence**: These dynamics are **domain-agnostic** — they appear in **artificial**, **biological**, and **cosmological** systems.
+
+5. **The universe is a computational fabric**: Evidence increasingly suggests that the **entire universe** may be understood as an emergent, computation-bearing system.
 
 ---
 
@@ -147,11 +162,11 @@ This repository and all contained scientific models, methods, and code are relea
 
 This license:
 
-- Ensures **open access and reuse** for scientific progress
-- Permits **modification and extension** for research and development
-- Requires **attribution** for academic and derivative use
+- Ensures **open access and reuse** for scientific progress  
+- Permits **modification and extension** for research and development  
+- Requires **attribution** for academic and derivative use  
 - Prevents the **privatization of foundational scientific knowledge**
 
 For full license terms, see [`LICENSE`](./LICENSE).
 
----
+--- 
