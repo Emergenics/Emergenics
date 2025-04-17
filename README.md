@@ -120,7 +120,7 @@ Phase transitions in the computational fabric define where **structure becomes i
 
 - ✅ **Emergenics Foundation** non-profit being established  
   EIN obtained, registration underway.
-- ✅ **[emergenicsfoundation.com](https://emergenicsfoundation.com)** is live.
+- ✅ **[emergenicsfoundation.com](https://emergenicsfoundation.com)** was purchased.
 - ✅ **GitHub Notebooks Published**:
   - Notebook 1: The Discovery
   - Notebook: Phase 1 – Structural Transitions
